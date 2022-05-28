@@ -1,1 +1,0 @@
-# tim3d-showcase
