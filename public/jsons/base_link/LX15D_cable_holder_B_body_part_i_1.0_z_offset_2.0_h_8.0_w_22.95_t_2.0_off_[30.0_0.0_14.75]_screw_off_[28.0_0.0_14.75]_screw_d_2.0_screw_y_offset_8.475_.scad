@@ -1,0 +1,2 @@
+use </home/veverak/Projects/Schpin/repos/schpin-robot/schpin_koke/src/scad/body.scad>;
+LX15D_cable_holder_B_body(part_i=1.0,z_offset=2.0,h=8.0,w=22.95,t=2.0,off=[30.0,0.0,14.75],screw_off=[28.0,0.0,14.75],screw_d=2.0,screw_y_offset=8.475);
